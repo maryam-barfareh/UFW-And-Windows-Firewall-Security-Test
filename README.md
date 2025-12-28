@@ -109,7 +109,6 @@ The goal was to:
 ###  UFW Status Check
 ```bash
 sudo ufw status verbose
-### Results
 Systems successfully hardened
 Unnecessary services blocked
 Traffic filtering verified using real tools
